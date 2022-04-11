@@ -1,12 +1,18 @@
-#이준호
-![Metrics](/github-metrics.svg)
+# 이준호
+
 - 이메일: honggildong@gmail.net  
 - 블로그: https://gildong.blgger.com  
 - 깃헙: https://github.com/donga-it-club  
+- 
+![Metrics](/github-metrics.svg)
+
+
 
 ## Summary
 
+
 ## Skill
+
 
 ### 앞으로 공부할 것들
 
