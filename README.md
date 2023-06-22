@@ -1,6 +1,6 @@
 # 이준호
 
-- 이메일: dlwnsgh5489@naver.com  
+- 이메일: junojano0827@gmail.com 
 - 블로그: https://junojano.tistory.com/
 - 깃헙: https://github.com/junojano
  
@@ -22,7 +22,7 @@
 **동아대 경영정보학과**(2018 ~ 2024)  
 **Study**
 
-- 동아대 IT 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
+-BespinGlobal 클라우드 청년 인재 - (2023.04~2023.11)
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
 
 ## Projects
