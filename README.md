@@ -23,8 +23,7 @@
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
 **Study**
 
--BespinGlobal 클라우드 청년 인재 - (2023.04~2023.11)
-
-## Projects
- - [https://www.notion.so/AWS-3-a86f0deded1f4f94b6da39a93f17c322]
+**BespinGlobal 클라우드 청년 인재** (2023.04~2023.11)
+### Projects
+ - [EKS - 3tier 구축] https://www.notion.so/AWS-3-a86f0deded1f4f94b6da39a93f17c322
 
