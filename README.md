@@ -1,7 +1,7 @@
 # 이준호
 
 - 이메일: junojano0827@gmail.com 
-- 블로그: https://junojano.tistory.com/
+- 블로그: https://www.notion.so/BTC_3-471a285ca1914144b53cc740a8c5a0d4
 - 깃헙: https://github.com/junojano
  
 ![Metrics](/github-metrics.svg)
